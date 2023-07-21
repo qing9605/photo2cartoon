@@ -83,7 +83,7 @@ python test_onnx.py --photo_path ./images/photo_test.jpg --save_path ./images/ca
 - 根据关键点旋转校正人脸。
 - 将关键点边界框按固定的比例扩张并裁剪出人脸区域。
 - 使用人像分割模型将背景置白。
-
+训练数据：https://aistudio.baidu.com/aistudio/datasetdetail/68045
 <div align='center'>
   <img src='./images/data_process.jpg'>
 </div>
